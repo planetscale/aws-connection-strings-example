@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1259.0",
+    "aws-sdk": "^2.1354.0",
     "dotenv": "^16.0.1",
     "mysql2": "^2.3.3"
   }
